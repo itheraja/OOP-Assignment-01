@@ -941,8 +941,7 @@ int main() {
     // [22] Platform stats
     market.showPlatformStats();
 
-    cout << "\n╔══════════════════════════════════════╗\n";
+  
     cout << "║       ALL REQUIREMENTS MET           ║\n";
-    cout << "╚══════════════════════════════════════╝\n\n";
     return 0;
 }
