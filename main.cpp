@@ -1,6 +1,6 @@
 /*
  * ============================================================
- *   CAR MARKETPLACE SYSTEM — PakWheels-Style (OOP Assignment)
+ *   CAR MARKETPLACE SYSTEM
  * ============================================================
  * CLASSES (10):
  *  1. Address    2. Vehicle (abstract)  3. Car   4. Bike
